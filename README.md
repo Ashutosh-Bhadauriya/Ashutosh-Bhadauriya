@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/LinkedIn%20cover%20-%202.png" width="600px" height="180px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
+  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/github-cover.png" width="610px" height="158px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
   <br/>
   <br/>
   <a title="Portfolio" href="https://www.cmcodes.in/">
