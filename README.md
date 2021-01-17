@@ -21,17 +21,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/github-cover.png" width="610px" height="158px" alt="Hi! I am Ashutosh" />
   <br/>
   <br/>
-  <a title="LinkedIn" href="https://www.instagram.com/techdrippers/">
+  <a title="Instagram" href="https://www.instagram.com/techdrippers/">
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/insta.svg"/>    
   </a>
-  <a title="DEV.to" href="https://dev.to/cmcodes">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  <a title="LinkedIn" href="https://dev.to/cmcodes">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/linkedin.svg" width="50" height="50" />
   </a>
-  <a title="Instagram" href="https://instagram.com/cmcodes">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
+  <a title="Twitter" href="https://instagram.com/cmcodes">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/twitter.svg" width="50" height="50" />
   </a>
-  <a title="Email" href="mailto:cm@cmcodes.in">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  <a title="Email" href="mailto:abhadauriya360@gmail.com">
+    <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/gmail.svg" width="50" height="50" />
   </a>
   <a title="Stackoverflow" href="https://stackoverflow.com/users/8161436/cmcodes">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
