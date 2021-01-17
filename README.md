@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<script src="https://kit.fontawesome.com/4957b49360.js" crossorigin="anonymous"></script>
 
 <p align="center">
-  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/github-cover.png" width="610px" height="158px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
+  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/github-cover.png" width="610px" height="158px" alt="Hi! I am Ashutosh" />
   <br/>
   <br/>
   <a title="Portfolio" href="https://www.cmcodes.in/">
-    <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" width="50" height="50" />
+<!--     <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" width="50" height="50" /> -->
+    <i class="fa fa-instagram"></i>
   </a>
   <a title="DEV.to" href="https://dev.to/cmcodes">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
