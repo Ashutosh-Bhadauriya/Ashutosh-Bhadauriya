@@ -34,8 +34,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/gmail.svg" width="30" height="30" />
   </a>
   <br/>
-  <br/>
-  <h3>My Tech Stack</h3>
+  <br/>  
   <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Bhadauriya&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Bhadauriya&layout=compact" height="170px">
 </p>
