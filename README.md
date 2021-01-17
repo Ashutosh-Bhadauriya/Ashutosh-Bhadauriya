@@ -46,6 +46,6 @@ Here are some ideas to get you started:
   </a>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Bhadauriya&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Bhadauriya&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmcodes1&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact" height="170px">
 </p>
