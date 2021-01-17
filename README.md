@@ -36,6 +36,6 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <h3>My Tech Stack</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Bhadauriya1&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Bhadauriya&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Bhadauriya&layout=compact" height="170px">
 </p>
