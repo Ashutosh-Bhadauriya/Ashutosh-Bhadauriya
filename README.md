@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/github-cover.png" width="610px" height="158px" alt="Hi! I am Ashutosh" />
+  <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/githubcover.png" width="610px" height="158px" alt="Hi! I am Ashutosh" />
   <br/>
   <br/>
   <a title="Instagram" href="https://www.instagram.com/techdrippers/">
