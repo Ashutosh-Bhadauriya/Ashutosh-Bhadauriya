@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <a title="Instagram" href="https://www.instagram.com/techdrippers/">
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/insta.svg" width="30" height="30" />    
   </a>
-  <a title="LinkedIn" href="https://dev.to/cmcodes">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/ashutosh-bhadauriya-b117431a9/">
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/linkedin.svg" width="30" height="30" />
   </a>
-  <a title="Twitter" href="https://instagram.com/cmcodes">
+  <a title="Twitter" href="https://twitter.com/techdrippers">
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/twitter.svg" width="30" height="30" />
   </a>
   <a title="Email" href="mailto:abhadauriya360@gmail.com">
