@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/githubcover.png" width="610px" height="158px" alt="Hi! I am Ashutosh" />
   <br/>
   <br/>
-  <a title="Instagram" href="https://www.instagram.com/techdrippers/">
+  <a title="Instagram" href="https://www.instagram.com/codingkites/">
     <img src="https://github.com/Ashutosh-Bhadauriya/Ashutosh-Bhadauriya/blob/main/insta.svg" width="30" height="30" />    
   </a>
   <a title="LinkedIn" href="https://www.linkedin.com/in/ashutosh-bhadauriya-b117431a9/">
